@@ -5,6 +5,7 @@ Repository structure
 ^^^^^^^^^^^^^^^^^^^^
 
 - setup.py
+- setup.cfg
 - your_package/
     - __init__.py
     - module_1.py
@@ -14,6 +15,5 @@ Repository structure
          - submodule_12.py
     - module_2.py
 
-- setup.cfg
--README.rst
+- README.rst
 - LICENSE
